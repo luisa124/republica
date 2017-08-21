@@ -1,0 +1,99 @@
+body {
+    background: lavender;
+}
+
+#blanco {
+    background: snow;
+    width: 1100px;
+    height: 700px;
+    position: absolute;
+    top: 60px;
+    left: 160px;
+}
+.logo {
+    background-color: red;
+    
+}
+
+.img {
+    position: relative;
+    top: 10px;
+    left: 392px;
+}
+ .parrafo {
+    background: silver;
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    top: 71px;
+    left: 180px;
+    font-size: 30px;
+} 
+.img1 {
+    position: relative;
+    top: 25px;
+    left: 172px;
+}
+.parrafo1 {
+    background: silver;
+    width: 312px;
+    height: 120px;
+    position: absolute;
+    top: 506px;
+    left: 180px;
+    font-size: 25px;
+}
+
+.img2 {
+    position: absolute;
+    top: 340px;
+    left: 513px;
+}
+.parrafo2 {
+    font-size: 25px;
+    background: silver;
+    width: 312px;
+    height: 120px;
+    position: absolute;
+    top: 506px;
+    left: 513px; 
+}
+.img3 {
+    position: absolute;
+    top: 72px;
+    left: 850px;
+}
+.img4 {
+    position: absolute;
+    top: 71px;
+    left: 1160px;
+}
+.img5 {
+    position: absolute;
+    top: 160px;
+    left: 990px;
+}
+.parrafo3 {
+    font-size: 25px;
+    background: silver;
+    width: 140px;
+    height: 270px;
+    position: absolute;
+    top: 160px;
+    left: 850px; 
+}
+ .img6 {
+    position: absolute;
+    top: 460px;
+    left: 990px;
+}
+.parrafo4 {
+    font-size: 25px;
+    background: silver;
+    width: 140px;
+    height: 270px;
+    position: absolute;
+    top: 460px;
+    left: 850px; 
+} 
+
